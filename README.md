@@ -1,3 +1,5 @@
+(HFAssist Multimodal AI Dashboard.png)
+
 # 🤖 HFAssist — Multimodal AI Assistant
 
 HFAssist is a multimodal AI project that brings together Text, Image, Audio, and Video processing using Hugging Face Transformers and a Telegram Bot interface.
