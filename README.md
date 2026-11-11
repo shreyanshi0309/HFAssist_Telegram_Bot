@@ -1,4 +1,4 @@
-![HFAssist Multimodal AI Dashboard](HFAssist Multimodal AI Dashboard.png)
+![HFAssist Multimodal AI Dashboard] (HFAssist Multimodal AI Dashboard.png)
 
 # 🤖 HFAssist — Multimodal AI Assistant
 
