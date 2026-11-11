@@ -1,0 +1,10 @@
+# HFAssist - Python dependencies
+# Install with: pip install -r requirements.txt
+
+transformers<5
+torch
+python-telegram-bot
+nest_asyncio
+opencv-python
+av
+Pillow
